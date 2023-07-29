@@ -1,0 +1,20 @@
+{
+  "name": "cirrus",
+  "version": "1.0.0",
+  "description": "bind key to upload directly to cloudinary",
+  "main": "upload-and-delete.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^2.1.0",
+    "cloudinary": "^1.14.0",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {
+    "dotenv": "^8.6.0"
+  }
+}
