@@ -34,16 +34,16 @@ SCREENSHOT_TEMP_DIR=
 
 # todo
 
-- [  ] add instructions for bash/fish
-- [  ] execute without any terminal output / having to be in dir
-- [  ] interpolate date string into file names in event it exists
-- [  ] temrminal notifier for errors
-- [  ] async modularize fns vs sync behemoth
-- [  ] add defaults and mkdir if dir doesn't exist
-- [  ] reduce n of dependencies
-- [  ] watch mode
-- [  ] globally installed npm pkg
-- [  ] cute lil 3d image in readme and a trillion fire emojis
-- [  ] flags for
+- [ ] add instructions for bash/fish
+- [ ] execute without any terminal output / having to be in dir
+- [ ] interpolate date string into file names in event it exists
+- [ ] temrminal notifier for errors
+- [ ] async modularize fns vs sync behemoth
+- [ ] add defaults and mkdir if dir doesn't exist
+- [ ] reduce n of dependencies
+- [ ] watch mode
+- [ ] globally installed npm pkg with github action workflow https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
+- [ ] cute lil 3d image in readme and a trillion fire emojis
+- [ ] flags for
   - [ ] not deleting
   - [ ] img transformations
